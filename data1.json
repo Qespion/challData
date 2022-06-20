@@ -1,200 +1,24 @@
 {
-    "213": {
-        "occurence": 3,
-        "comp": "['Heimerdinger', 'Illaoi', 'Lulu', 'Nami', 'Ryze', 'Sona', 'Sylas', 'TrainerDragon', 'Vladimir']",
+    "252": {
+        "occurence": 4,
+        "comp": "['Heimerdinger', 'Illaoi', 'Lulu', 'Nami', 'Ryze', 'Sona', 'Sylas', 'TrainerDragon', 'Zoe']",
         "data": [
             {
                 "augments": [
-                    "TFT7_Augment_MysticTrait",
-                    "TFT7_Augment_Preparation2",
-                    "TFT6_Augment_JeweledLotus"
-                ],
-                "gold_left": 2,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set7_Astral",
-                        "num_units": 3,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Evoker",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 8,
-                        "style": 3,
-                        "tier_current": 3,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Mystic",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Revel",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Trainer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Vladimir",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Heimerdinger",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Nami",
-                        "itemNames": [
-                            "TFT_Item_ThiefsGloves",
-                            "TFT_Item_JeweledGauntlet",
-                            "TFT_Item_ArchangelsStaff"
-                        ],
-                        "items": [
-                            99,
-                            39,
-                            34
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Lulu",
-                        "itemNames": [
-                            "TFT7_Item_MageEmblemItem"
-                        ],
-                        "items": [
-                            2311
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ryze",
-                        "itemNames": [
-                            "TFT_Item_SpearOfShojin",
-                            "TFT_Item_ArchangelsStaff",
-                            "TFT_Item_StatikkShiv"
-                        ],
-                        "items": [
-                            14,
-                            34,
-                            24
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT_Item_NegatronCloak",
-                            "TFT_Item_WarmogsArmor",
-                            "TFT_Item_RedBuff"
-                        ],
-                        "items": [
-                            6,
-                            77,
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Illaoi",
-                        "itemNames": [
-                            "TFT_Item_TitanicHydra",
-                            "TFT7_Item_MageEmblemItem"
-                        ],
-                        "items": [
-                            27,
-                            2311
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Sona",
-                        "itemNames": [
-                            "TFT7_Item_MageEmblemItem",
-                            "TFT_Item_JeweledGauntlet"
-                        ],
-                        "items": [
-                            2311,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_TrainerDragon",
-                        "itemNames": [
-                            "TFT7_Item_TrainerSnax"
-                        ],
-                        "items": [
-                            41105
-                        ],
-                        "tier": 4
-                    }
-                ]
-            },
-            {
-                "augments": [
                     "TFT6_Augment_LudensEcho2",
-                    "TFT6_Augment_LudensEcho1",
-                    "TFT7_Augment_FirstAidKit2"
+                    "TFT7_Augment_PandorasBench",
+                    "TFT6_Augment_PortableForge"
                 ],
-                "gold_left": 39,
+                "gold_left": 17,
                 "level": 8,
                 "placement": 1,
                 "puuid": "N/A",
                 "traits": [
                     {
                         "name": "Set7_Astral",
-                        "num_units": 3,
-                        "style": 1,
-                        "tier_current": 1,
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
                         "tier_total": 3
                     },
                     {
@@ -240,6 +64,20 @@
                         "tier_total": 4
                     },
                     {
+                        "name": "Set7_Shimmerscale",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_SpellThief",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
                         "name": "Set7_Trainer",
                         "num_units": 2,
                         "style": 1,
@@ -256,11 +94,379 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT7_Vladimir",
+                        "character_id": "TFT7_Heimerdinger",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
+                    {
+                        "character_id": "TFT7_Nami",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Lulu",
+                        "itemNames": [
+                            "TFT_Item_SeraphsEmbrace",
+                            "TFT_Item_PowerGauntlet",
+                            "TFT_Item_GuardianAngel"
+                        ],
+                        "items": [
+                            44,
+                            79,
+                            94
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Ryze",
+                        "itemNames": [
+                            "TFT4_Item_OrnnMuramana",
+                            "TFT_Item_SpearOfShojin",
+                            "TFT_Item_ArchangelsStaff"
+                        ],
+                        "items": [
+                            9005,
+                            14,
+                            34
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT_Item_DragonsClaw",
+                            "TFT_Item_WarmogsArmor",
+                            "TFT_Item_BrambleVest"
+                        ],
+                        "items": [
+                            66,
+                            77,
+                            55
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Illaoi",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sona",
+                        "itemNames": [
+                            "TFT_Item_StatikkShiv",
+                            "TFT_Item_RapidFireCannon"
+                        ],
+                        "items": [
+                            24,
+                            22
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Zoe",
+                        "itemNames": [
+                            "TFT_Item_ThiefsGloves",
+                            "TFT_Item_LocketOfTheIronSolari",
+                            "TFT_Item_LocketOfTheIronSolari"
+                        ],
+                        "items": [
+                            99,
+                            35,
+                            35
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_TrainerDragon",
+                        "itemNames": [
+                            "TFT7_Item_TrainerSnax"
+                        ],
+                        "items": [
+                            41105
+                        ],
+                        "tier": 4
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_LudensEcho2",
+                    "TFT6_Augment_SecondWind1",
+                    "TFT6_Augment_ComponentGrabBag"
+                ],
+                "gold_left": 22,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Astral",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Evoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 6,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Revel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Shimmerscale",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_SpellThief",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Trainer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Heimerdinger",
+                        "itemNames": [
+                            "TFT_Item_Shroud"
+                        ],
+                        "items": [
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Nami",
+                        "itemNames": [
+                            "TFT_Item_LocketOfTheIronSolari"
+                        ],
+                        "items": [
+                            35
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Lulu",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ryze",
+                        "itemNames": [
+                            "TFT_Item_SpearOfShojin",
+                            "TFT_Item_ArchangelsStaff",
+                            "TFT_Item_Quicksilver"
+                        ],
+                        "items": [
+                            14,
+                            34,
+                            69
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT_Item_RedBuff",
+                            "TFT_Item_WarmogsArmor",
+                            "TFT_Item_IonicSpark"
+                        ],
+                        "items": [
+                            57,
+                            77,
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Illaoi",
+                        "itemNames": [
+                            "TFT_Item_TitanicHydra",
+                            "TFT_Item_TitanicHydra"
+                        ],
+                        "items": [
+                            27,
+                            27
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sona",
+                        "itemNames": [
+                            "TFT7_Item_MageEmblemItem",
+                            "TFT_Item_ArchangelsStaff"
+                        ],
+                        "items": [
+                            2311,
+                            34
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Zoe",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_TrainerDragon",
+                        "itemNames": [
+                            "TFT7_Item_TrainerSnax"
+                        ],
+                        "items": [
+                            41105
+                        ],
+                        "tier": 3
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_ThreesCompany",
+                    "TFT6_Augment_ComponentGrabBag",
+                    "TFT6_Augment_SalvageBin"
+                ],
+                "gold_left": 3,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Astral",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Evoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 5,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Revel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Shimmerscale",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_SpellThief",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Trainer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
                     {
                         "character_id": "TFT7_Heimerdinger",
                         "itemNames": [],
@@ -270,24 +476,20 @@
                     {
                         "character_id": "TFT7_Nami",
                         "itemNames": [
-                            "TFT_Item_GuinsoosRageblade",
-                            "TFT_Item_RabadonsDeathcap",
-                            "TFT_Item_StatikkShiv"
+                            "TFT_Item_Shroud"
                         ],
                         "items": [
-                            23,
-                            33,
-                            24
+                            59
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT7_Lulu",
                         "itemNames": [
-                            "TFT_Item_PowerGauntlet"
+                            "TFT_Item_Chalice"
                         ],
                         "items": [
-                            79
+                            46
                         ],
                         "tier": 2
                     },
@@ -295,38 +497,853 @@
                         "character_id": "TFT7_Ryze",
                         "itemNames": [
                             "TFT_Item_SpearOfShojin",
-                            "TFT_Item_GuinsoosRageblade",
-                            "TFT_Item_ArchangelsStaff"
+                            "TFT_Item_RabadonsDeathcap",
+                            "TFT_Item_Quicksilver"
                         ],
                         "items": [
                             14,
-                            23,
-                            34
+                            33,
+                            69
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT_Item_WarmogsArmor",
+                            "TFT_Item_GargoyleStoneplate",
+                            "TFT_Item_RedBuff"
+                        ],
+                        "items": [
+                            77,
+                            56,
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Illaoi",
+                        "itemNames": [
+                            "TFT_Item_LocketOfTheIronSolari",
+                            "TFT_Item_WarmogsArmor",
+                            "TFT_Item_TitanicHydra"
+                        ],
+                        "items": [
+                            35,
+                            77,
+                            27
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sona",
+                        "itemNames": [
+                            "TFT_Item_Morellonomicon"
+                        ],
+                        "items": [
+                            37
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Zoe",
+                        "itemNames": [
+                            "TFT_Item_ThiefsGloves",
+                            "TFT_Item_ChainVest",
+                            "TFT_Item_LocketOfTheIronSolari"
+                        ],
+                        "items": [
+                            99,
+                            5,
+                            35
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_TrainerDragon",
+                        "itemNames": [
+                            "TFT7_Item_TrainerSnax"
+                        ],
+                        "items": [
+                            41105
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_TriForce1",
+                    "TFT6_Augment_TomeOfTraits1",
+                    "TFT6_Augment_RadiantRelics"
+                ],
+                "gold_left": 2,
+                "level": 8,
+                "placement": 2,
+                "puuid": "Dalesom",
+                "traits": [
+                    {
+                        "name": "Set7_Astral",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Evoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 2,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 5,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Revel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Shimmerscale",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_SpellThief",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Trainer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Heimerdinger",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Nami",
+                        "itemNames": [
+                            "TFT7_Item_GuildEmblemItem",
+                            "TFT_Item_Bloodthirster",
+                            "TFT_Item_GuinsoosRageblade"
+                        ],
+                        "items": [
+                            2318,
+                            16,
+                            23
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Lulu",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ryze",
+                        "itemNames": [
+                            "TFT_Item_ArchangelsStaff",
+                            "TFT_Item_GuardianAngel",
+                            "TFT_Item_SpearOfShojin"
+                        ],
+                        "items": [
+                            34,
+                            94,
+                            14
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT7_Sylas",
                         "itemNames": [
-                            "TFT_Item_Morellonomicon",
-                            "TFT_Item_GargoyleStoneplate",
-                            "TFT_Item_TitanicHydra"
+                            "TFT_Item_ThiefsGloves",
+                            "TFT_Item_DragonsClaw",
+                            "TFT_Item_HextechGunblade"
                         ],
                         "items": [
-                            37,
-                            56,
-                            27
+                            99,
+                            66,
+                            13
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Illaoi",
+                        "itemNames": [
+                            "TFT_Item_BrambleVest",
+                            "TFT_Item_WarmogsArmor",
+                            "TFT5_Item_RedemptionRadiant"
+                        ],
+                        "items": [
+                            55,
+                            77,
+                            2047
                         ],
                         "tier": 3
                     },
                     {
+                        "character_id": "TFT7_Sona",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Zoe",
+                        "itemNames": [
+                            "TFT_Item_SpearOfShojin",
+                            "TFT_Item_Quicksilver",
+                            "TFT_Item_NeedlesslyLargeRod"
+                        ],
+                        "items": [
+                            14,
+                            69,
+                            3
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_TrainerDragon",
+                        "itemNames": [
+                            "TFT7_Item_TrainerSnax"
+                        ],
+                        "items": [
+                            41105
+                        ],
+                        "tier": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "253": {
+        "occurence": 5,
+        "comp": "['Bard', 'Heimerdinger', 'Illaoi', 'Lulu', 'Nami', 'Ryze', 'Sona', 'Sylas', 'TrainerDragon', 'Zoe']",
+        "data": [
+            {
+                "augments": [
+                    "TFT6_Augment_Electrocharge1",
+                    "TFT6_Augment_TriForce1",
+                    "TFT6_Augment_Diversify3"
+                ],
+                "gold_left": 2,
+                "level": 9,
+                "placement": 1,
+                "puuid": "SLY L3SCoco",
+                "traits": [
+                    {
+                        "name": "Set7_Astral",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bard",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Evoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 2,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 6,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Mystic",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Revel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Shimmerscale",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_SpellThief",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Trainer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Heimerdinger",
+                        "itemNames": [
+                            "TFT_Item_LastWhisper"
+                        ],
+                        "items": [
+                            29
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Nami",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Lulu",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ryze",
+                        "itemNames": [
+                            "TFT_Item_MadredsBloodrazor",
+                            "TFT_Item_SpearOfShojin",
+                            "TFT_Item_UnstableConcoction"
+                        ],
+                        "items": [
+                            12,
+                            14,
+                            49
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT_Item_RedBuff",
+                            "TFT_Item_Shroud",
+                            "TFT_Item_IonicSpark"
+                        ],
+                        "items": [
+                            57,
+                            59,
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
                         "character_id": "TFT7_Illaoi",
+                        "itemNames": [
+                            "TFT7_Item_ShimmerscaleEmblemItem",
+                            "TFT_Item_GiantsBelt"
+                        ],
+                        "items": [
+                            2302,
+                            7
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sona",
+                        "itemNames": [
+                            "TFT7_Item_MageEmblemItem"
+                        ],
+                        "items": [
+                            2311
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Zoe",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Bard",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_TrainerDragon",
+                        "itemNames": [
+                            "TFT7_Item_TrainerSnax"
+                        ],
+                        "items": [
+                            41105
+                        ],
+                        "tier": 4
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_RichGetRicher",
+                    "TFT6_Augment_BlueBattery2",
+                    "TFT6_Augment_CyberneticUplink2"
+                ],
+                "gold_left": 2,
+                "level": 8,
+                "placement": 1,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Astral",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bard",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Evoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 2,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 5,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Mystic",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Revel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Shimmerscale",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_SpellThief",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Trainer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Heimerdinger",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Nami",
+                        "itemNames": [
+                            "TFT_Item_NegatronCloak"
+                        ],
+                        "items": [
+                            6
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Lulu",
+                        "itemNames": [
+                            "TFT_Item_ForceOfNature",
+                            "TFT_Item_Chalice"
+                        ],
+                        "items": [
+                            88,
+                            46
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ryze",
+                        "itemNames": [
+                            "TFT_Item_ArchangelsStaff",
+                            "TFT_Item_SpearOfShojin",
+                            "TFT_Item_Bloodthirster"
+                        ],
+                        "items": [
+                            34,
+                            14,
+                            16
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT_Item_RedBuff",
+                            "TFT_Item_TitansResolve"
+                        ],
+                        "items": [
+                            57,
+                            25
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Illaoi",
+                        "itemNames": [
+                            "TFT_Item_Morellonomicon"
+                        ],
+                        "items": [
+                            37
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sona",
+                        "itemNames": [
+                            "TFT_Item_InfinityEdge",
+                            "TFT_Item_JeweledGauntlet",
+                            "TFT_Item_SparringGloves"
+                        ],
+                        "items": [
+                            19,
+                            39,
+                            9
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Zoe",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Bard",
+                        "itemNames": [
+                            "TFT_Item_StatikkShiv"
+                        ],
+                        "items": [
+                            24
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_TrainerDragon",
+                        "itemNames": [
+                            "TFT7_Item_TrainerSnax"
+                        ],
+                        "items": [
+                            41105
+                        ],
+                        "tier": 3
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT7_Augment_AstralTrait",
+                    "TFT6_Augment_MakeshiftArmor1",
+                    "TFT6_Augment_PortableForge"
+                ],
+                "gold_left": 5,
+                "level": 9,
+                "placement": 1,
+                "puuid": "tetra17",
+                "traits": [
+                    {
+                        "name": "Set7_Astral",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bard",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Evoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 2,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 7,
+                        "style": 3,
+                        "tier_current": 3,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Mystic",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Revel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Shimmerscale",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_SpellThief",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Trainer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Heimerdinger",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Nami",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
+                        "character_id": "TFT7_Lulu",
+                        "itemNames": [
+                            "TFT_Item_Chalice",
+                            "TFT_Item_Chalice"
+                        ],
+                        "items": [
+                            46,
+                            46
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ryze",
+                        "itemNames": [
+                            "TFT_Item_SpearOfShojin",
+                            "TFT4_Item_OrnnMuramana",
+                            "TFT_Item_MadredsBloodrazor"
+                        ],
+                        "items": [
+                            14,
+                            9005,
+                            12
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT_Item_TitanicHydra"
+                        ],
+                        "items": [
+                            27
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Illaoi",
+                        "itemNames": [
+                            "TFT7_Item_MageEmblemItem",
+                            "TFT_Item_IonicSpark",
+                            "TFT_Item_WarmogsArmor"
+                        ],
+                        "items": [
+                            2311,
+                            36,
+                            77
+                        ],
+                        "tier": 3
+                    },
+                    {
                         "character_id": "TFT7_Sona",
+                        "itemNames": [
+                            "TFT7_Item_MageEmblemItem",
+                            "TFT_Item_NeedlesslyLargeRod",
+                            "TFT_Item_Quicksilver"
+                        ],
+                        "items": [
+                            2311,
+                            3,
+                            69
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Zoe",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Bard",
                         "itemNames": [
                             "TFT_Item_Zephyr"
                         ],
@@ -349,883 +1366,14 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_CyberneticShell1",
-                    "TFT6_Augment_LudensEcho1",
-                    "TFT6_Augment_RadiantRelics"
-                ],
-                "gold_left": 61,
-                "level": 8,
-                "placement": 2,
-                "puuid": "Matelas de Volta",
-                "traits": [
-                    {
-                        "name": "Set7_Astral",
-                        "num_units": 3,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Evoker",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 5,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Mystic",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Revel",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Trainer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Vladimir",
-                        "itemNames": [
-                            "TFT_Item_FrozenHeart",
-                            "TFT_Item_LocketOfTheIronSolari",
-                            "TFT_Item_Shroud"
-                        ],
-                        "items": [
-                            45,
-                            35,
-                            59
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Heimerdinger",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Nami",
-                        "itemNames": [
-                            "TFT_Item_Chalice"
-                        ],
-                        "items": [
-                            46
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Lulu",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ryze",
-                        "itemNames": [
-                            "TFT_Item_MadredsBloodrazor",
-                            "TFT_Item_RabadonsDeathcap",
-                            "TFT_Item_SpearOfShojin"
-                        ],
-                        "items": [
-                            12,
-                            33,
-                            14
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT5_Item_IonicSparkRadiant",
-                            "TFT_Item_GargoyleStoneplate",
-                            "TFT_Item_IonicSpark"
-                        ],
-                        "items": [
-                            2036,
-                            56,
-                            36
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Illaoi",
-                        "itemNames": [
-                            "TFT_Item_RedBuff",
-                            "TFT_Item_GargoyleStoneplate"
-                        ],
-                        "items": [
-                            57,
-                            56
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sona",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_TrainerDragon",
-                        "itemNames": [
-                            "TFT7_Item_TrainerSnax"
-                        ],
-                        "items": [
-                            41105
-                        ],
-                        "tier": 4
-                    }
-                ]
-            }
-        ]
-    },
-    "214": {
-        "occurence": 4,
-        "comp": "['Diana', 'Olaf', 'Ornn', 'Pyke', 'Qiyana', 'Shen', 'Sylas', 'Talon']",
-        "data": [
-            {
-                "augments": [
-                    "TFT6_Augment_ThrillOfTheHunt2",
-                    "TFT6_Augment_TomeOfTraits1",
-                    "TFT6_Augment_TheGoldenEgg"
-                ],
-                "gold_left": 13,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set7_Assassin",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 4,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Legend",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Ragewing",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Scalescorn",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Tempest",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Warrior",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Qiyana",
-                        "itemNames": [
-                            "TFT_Item_RecurveBow"
-                        ],
-                        "items": [
-                            2
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Shen",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Olaf",
-                        "itemNames": [
-                            "TFT_Item_InfinityEdge",
-                            "TFT_Item_RunaansHurricane",
-                            "TFT7_Item_AssassinEmblemItem"
-                        ],
-                        "items": [
-                            19,
-                            26,
-                            2325
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT5_Item_TrapClawRadiant",
-                            "TFT_Item_ZekesHerald"
-                        ],
-                        "items": [
-                            2079,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Diana",
-                        "itemNames": [
-                            "TFT_Item_SpearOfShojin",
-                            "TFT_Item_FrozenHeart",
-                            "TFT_Item_TitansResolve"
-                        ],
-                        "items": [
-                            14,
-                            45,
-                            25
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Talon",
-                        "itemNames": [
-                            "TFT_Item_Deathblade",
-                            "TFT_Item_RunaansHurricane"
-                        ],
-                        "items": [
-                            11,
-                            26
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ornn",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Pyke",
-                        "itemNames": [
-                            "TFT_Item_InfinityEdge",
-                            "TFT_Item_SeraphsEmbrace",
-                            "TFT_Item_ArchangelsStaff"
-                        ],
-                        "items": [
-                            19,
-                            44,
-                            34
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT7_Augment_BestFriends1",
-                    "TFT6_Augment_Diversify1",
-                    "TFT7_Augment_BruiserTitanicStrength"
-                ],
-                "gold_left": 33,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set7_Assassin",
-                        "num_units": 6,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 4,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Legend",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Ragewing",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Scalescorn",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Tempest",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Warrior",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Qiyana",
-                        "itemNames": [
-                            "TFT_Item_LocketOfTheIronSolari"
-                        ],
-                        "items": [
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Shen",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Olaf",
-                        "itemNames": [
-                            "TFT_Item_RapidFireCannon",
-                            "TFT7_Item_AssassinEmblemItem",
-                            "TFT_Item_Quicksilver"
-                        ],
-                        "items": [
-                            22,
-                            2325,
-                            69
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT7_Item_AssassinEmblemItem",
-                            "TFT_Item_Shroud"
-                        ],
-                        "items": [
-                            2325,
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Diana",
-                        "itemNames": [
-                            "TFT_Item_StatikkShiv",
-                            "TFT_Item_RabadonsDeathcap"
-                        ],
-                        "items": [
-                            24,
-                            33
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Talon",
-                        "itemNames": [
-                            "TFT_Item_LastWhisper"
-                        ],
-                        "items": [
-                            29
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ornn",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Pyke",
-                        "itemNames": [
-                            "TFT_Item_RabadonsDeathcap"
-                        ],
-                        "items": [
-                            33
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT7_Augment_ShimmerscaleEmblem",
-                    "TFT6_Augment_ComponentGrabBag",
-                    "TFT6_Augment_CyberneticUplink2"
-                ],
-                "gold_left": 29,
-                "level": 8,
-                "placement": 2,
-                "puuid": "S1C xus0o",
-                "traits": [
-                    {
-                        "name": "Set7_Assassin",
-                        "num_units": 4,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 4,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Legend",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Ragewing",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Scalescorn",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Shimmerscale",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Tempest",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Warrior",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Qiyana",
-                        "itemNames": [
-                            "TFT7_Item_ShimmerscaleEmblemItem"
-                        ],
-                        "items": [
-                            2302
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Shen",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Olaf",
-                        "itemNames": [
-                            "TFT_Item_GuinsoosRageblade",
-                            "TFT_Item_RapidFireCannon",
-                            "TFT_Item_Bloodthirster"
-                        ],
-                        "items": [
-                            23,
-                            22,
-                            16
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT_Item_WarmogsArmor",
-                            "TFT_Item_WarmogsArmor"
-                        ],
-                        "items": [
-                            77,
-                            77
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Diana",
-                        "itemNames": [
-                            "TFT_Item_UnstableConcoction",
-                            "TFT_Item_InfinityEdge",
-                            "TFT_Item_Bloodthirster"
-                        ],
-                        "items": [
-                            49,
-                            19,
-                            16
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Talon",
-                        "itemNames": [
-                            "TFT_Item_BFSword"
-                        ],
-                        "items": [
-                            1
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ornn",
-                        "itemNames": [
-                            "TFT_Item_TearOfTheGoddess"
-                        ],
-                        "items": [
-                            4
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT7_Pyke",
-                        "itemNames": [
-                            "TFT_Item_SeraphsEmbrace",
-                            "TFT_Item_Shroud"
-                        ],
-                        "items": [
-                            44,
-                            59
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SecondWind1",
-                    "TFT7_Augment_WarriorTiamat",
-                    "TFT6_Augment_TomeOfTraits1"
-                ],
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "SLY L3SCoco",
-                "traits": [
-                    {
-                        "name": "Set7_Assassin",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 4,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Legend",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Ragewing",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Scalescorn",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Tempest",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Warrior",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Qiyana",
-                        "itemNames": [
-                            "TFT_Item_FrozenHeart"
-                        ],
-                        "items": [
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Shen",
-                        "itemNames": [
-                            "TFT_Item_WarmogsArmor",
-                            "TFT_Item_DragonsClaw"
-                        ],
-                        "items": [
-                            77,
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Olaf",
-                        "itemNames": [
-                            "TFT_Item_InfinityEdge",
-                            "TFT7_Item_AssassinEmblemItem",
-                            "TFT_Item_RunaansHurricane"
-                        ],
-                        "items": [
-                            19,
-                            2325,
-                            26
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Diana",
-                        "itemNames": [
-                            "TFT_Item_FrozenHeart"
-                        ],
-                        "items": [
-                            45
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Talon",
-                        "itemNames": [
-                            "TFT_Item_ZekesHerald",
-                            "TFT_Item_ZekesHerald"
-                        ],
-                        "items": [
-                            17,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ornn",
-                        "itemNames": [
-                            "TFT_Item_Morellonomicon"
-                        ],
-                        "items": [
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Pyke",
-                        "itemNames": [
-                            "TFT_Item_SeraphsEmbrace"
-                        ],
-                        "items": [
-                            44
-                        ],
-                        "tier": 2
-                    }
-                ]
-            }
-        ]
-    },
-    "215": {
-        "occurence": 5,
-        "comp": "['Bard', 'Heimerdinger', 'Illaoi', 'Lulu', 'Nami', 'Ryze', 'Sona', 'Sylas', 'TrainerDragon', 'Zoe']",
-        "data": [
-            {
-                "augments": [
+                    "TFT6_Augment_Meditation1",
                     "TFT7_Augment_MageEmblem2",
-                    "TFT7_Augment_MageEmblem",
-                    "TFT6_Augment_PortableForge"
+                    "TFT7_Augment_MageTrait"
                 ],
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "Kezman22",
+                "gold_left": 3,
+                "level": 9,
+                "placement": 1,
+                "puuid": "odahaz ukana",
                 "traits": [
                     {
                         "name": "Set7_Astral",
@@ -1317,220 +1465,21 @@
                         "character_id": "TFT7_Heimerdinger",
                         "itemNames": [],
                         "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT7_Nami",
-                        "itemNames": [
-                            "TFT_Item_ThiefsGloves",
-                            "TFT_Item_StatikkShiv",
-                            "TFT_Item_GuinsoosRageblade"
-                        ],
-                        "items": [
-                            99,
-                            24,
-                            23
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Lulu",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ryze",
-                        "itemNames": [
-                            "TFT_Item_MadredsBloodrazor"
-                        ],
-                        "items": [
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT_Item_GargoyleStoneplate",
-                            "TFT_Item_RedBuff",
-                            "TFT_Item_IonicSpark"
-                        ],
-                        "items": [
-                            56,
-                            57,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Illaoi",
-                        "itemNames": [
-                            "TFT7_Item_MageEmblemItem",
-                            "TFT_Item_TitanicHydra"
-                        ],
-                        "items": [
-                            2311,
-                            27
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Sona",
-                        "itemNames": [
-                            "TFT7_Item_MageEmblemItem",
-                            "TFT_Item_MadredsBloodrazor"
-                        ],
-                        "items": [
-                            2311,
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Zoe",
-                        "itemNames": [
-                            "TFT_Item_RabadonsDeathcap",
-                            "TFT4_Item_OrnnZhonyasParadox",
-                            "TFT_Item_SpearOfShojin"
-                        ],
-                        "items": [
-                            33,
-                            9010,
-                            14
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT7_Bard",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT7_TrainerDragon",
-                        "itemNames": [
-                            "TFT7_Item_TrainerSnax"
-                        ],
-                        "items": [
-                            41105
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_ThreesCompany",
-                    "TFT6_Augment_ItemGrabBag1",
-                    "TFT6_Augment_SecondWind1"
-                ],
-                "gold_left": 0,
-                "level": 9,
-                "placement": 2,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set7_Astral",
-                        "num_units": 2,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bard",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Evoker",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 2,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 5,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Mystic",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Revel",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Shimmerscale",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_SpellThief",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Trainer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Heimerdinger",
-                        "itemNames": [],
-                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT7_Nami",
                         "itemNames": [
+                            "TFT_Item_ZekesHerald",
+                            "TFT_Item_ZekesHerald",
                             "TFT_Item_StatikkShiv"
                         ],
                         "items": [
+                            17,
+                            17,
                             24
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT7_Lulu",
@@ -1541,459 +1490,67 @@
                     {
                         "character_id": "TFT7_Ryze",
                         "itemNames": [
-                            "TFT_Item_Bloodthirster",
+                            "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_SpearOfShojin",
                             "TFT_Item_ArchangelsStaff"
                         ],
                         "items": [
-                            16,
+                            12,
                             14,
                             34
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT7_Sylas",
                         "itemNames": [
-                            "TFT_Item_RedBuff",
                             "TFT_Item_GargoyleStoneplate",
-                            "TFT_Item_BrambleVest"
-                        ],
-                        "items": [
-                            57,
-                            56,
-                            55
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Illaoi",
-                        "itemNames": [
-                            "TFT_Item_UnstableConcoction",
-                            "TFT_Item_TitansResolve",
-                            "TFT_Item_SparringGloves"
-                        ],
-                        "items": [
-                            49,
-                            25,
-                            9
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sona",
-                        "itemNames": [
-                            "TFT_Item_LastWhisper",
-                            "TFT_Item_LocketOfTheIronSolari"
-                        ],
-                        "items": [
-                            29,
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Zoe",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT7_Bard",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_TrainerDragon",
-                        "itemNames": [
-                            "TFT7_Item_TrainerSnax"
-                        ],
-                        "items": [
-                            41105
-                        ],
-                        "tier": 3
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_LudensEcho2",
-                    "TFT7_Augment_BandOfThieves1",
-                    "TFT6_Augment_CyberneticUplink2"
-                ],
-                "gold_left": 1,
-                "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set7_Astral",
-                        "num_units": 2,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bard",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Evoker",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 2,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 5,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Mystic",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Revel",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Shimmerscale",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_SpellThief",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Trainer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Heimerdinger",
-                        "itemNames": [
-                            "TFT_Item_NeedlesslyLargeRod"
-                        ],
-                        "items": [
-                            3
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Nami",
-                        "itemNames": [
-                            "TFT_Item_ThiefsGloves",
-                            "TFT_Item_RapidFireCannon",
-                            "TFT_Item_SpearOfShojin"
-                        ],
-                        "items": [
-                            99,
-                            22,
-                            14
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Lulu",
-                        "itemNames": [
-                            "TFT_Item_StatikkShiv"
-                        ],
-                        "items": [
-                            24
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ryze",
-                        "itemNames": [
-                            "TFT_Item_JeweledGauntlet",
-                            "TFT_Item_SpearOfShojin",
-                            "TFT_Item_MadredsBloodrazor"
-                        ],
-                        "items": [
-                            39,
-                            14,
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT_Item_BrambleVest",
-                            "TFT_Item_RedBuff",
+                            "TFT_Item_TitanicHydra",
                             "TFT_Item_Quicksilver"
                         ],
                         "items": [
-                            55,
-                            57,
+                            56,
+                            27,
                             69
                         ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Illaoi",
-                        "itemNames": [
-                            "TFT_Item_IonicSpark",
-                            "TFT_Item_BrambleVest"
-                        ],
-                        "items": [
-                            36,
-                            55
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT7_Sona",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Zoe",
-                        "itemNames": [
-                            "TFT_Item_JeweledGauntlet"
-                        ],
-                        "items": [
-                            39
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT7_Bard",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT7_TrainerDragon",
-                        "itemNames": [
-                            "TFT7_Item_TrainerSnax"
-                        ],
-                        "items": [
-                            41105
-                        ],
-                        "tier": 3
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_LudensEcho2",
-                    "TFT6_Augment_PortableForge",
-                    "TFT6_Augment_Meditation2"
-                ],
-                "gold_left": 8,
-                "level": 9,
-                "placement": 2,
-                "puuid": "vuelve por favor",
-                "traits": [
-                    {
-                        "name": "Set7_Astral",
-                        "num_units": 2,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Bard",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Bruiser",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Evoker",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set7_Guild",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 2,
-                        "tier_total": 6
-                    },
-                    {
-                        "name": "Set7_Mage",
-                        "num_units": 5,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Mystic",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Revel",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_Shimmerscale",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set7_SpellThief",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set7_Trainer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set7_Whispers",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT7_Heimerdinger",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Nami",
-                        "itemNames": [],
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Lulu",
-                        "itemNames": [
-                            "TFT_Item_PowerGauntlet",
-                            "TFT_Item_LocketOfTheIronSolari"
-                        ],
-                        "items": [
-                            79,
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Ryze",
-                        "itemNames": [
-                            "TFT_Item_DragonsClaw",
-                            "TFT_Item_Bloodthirster",
-                            "TFT_Item_SpearOfShojin"
-                        ],
-                        "items": [
-                            66,
-                            16,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT7_Sylas",
-                        "itemNames": [
-                            "TFT_Item_GargoyleStoneplate",
-                            "TFT4_Item_OrnnDeathsDefiance",
-                            "TFT_Item_TitanicHydra"
-                        ],
-                        "items": [
-                            56,
-                            9002,
-                            27
-                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT7_Illaoi",
                         "itemNames": [
-                            "TFT_Item_TitanicHydra",
-                            "TFT_Item_Shroud",
-                            "TFT_Item_IonicSpark"
+                            "TFT_Item_TitansResolve",
+                            "TFT_Item_Zephyr"
                         ],
                         "items": [
-                            27,
-                            59,
-                            36
+                            25,
+                            67
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT7_Sona",
-                        "itemNames": [],
-                        "items": [],
+                        "itemNames": [
+                            "TFT7_Item_MageEmblemItem",
+                            "TFT_Item_ArchangelsStaff",
+                            "TFT_Item_Chalice"
+                        ],
+                        "items": [
+                            2311,
+                            34,
+                            46
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT7_Zoe",
-                        "itemNames": [],
-                        "items": [],
+                        "itemNames": [
+                            "TFT_Item_GuardianAngel",
+                            "TFT_Item_TitansResolve"
+                        ],
+                        "items": [
+                            94,
+                            25
+                        ],
                         "tier": 2
                     },
                     {
@@ -2016,14 +1573,14 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_LudensEcho1",
-                    "TFT7_Augment_MageEmblem",
-                    "TFT6_Augment_SecondWind2"
+                    "TFT6_Augment_TargetDummies",
+                    "TFT6_Augment_Meditation3",
+                    "TFT6_Augment_Meditation2"
                 ],
-                "gold_left": 2,
+                "gold_left": 0,
                 "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
+                "placement": 2,
+                "puuid": "Texita",
                 "traits": [
                     {
                         "name": "Set7_Astral",
@@ -2062,7 +1619,7 @@
                     },
                     {
                         "name": "Set7_Mage",
-                        "num_units": 6,
+                        "num_units": 5,
                         "style": 2,
                         "tier_current": 2,
                         "tier_total": 4
@@ -2115,87 +1672,65 @@
                         "character_id": "TFT7_Heimerdinger",
                         "itemNames": [],
                         "items": [],
-                        "tier": 2
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT7_Nami",
                         "itemNames": [],
                         "items": [],
-                        "tier": 1
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT7_Lulu",
-                        "itemNames": [
-                            "TFT_Item_StatikkShiv",
-                            "TFT_Item_PowerGauntlet"
-                        ],
-                        "items": [
-                            24,
-                            79
-                        ],
+                        "itemNames": [],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT7_Ryze",
                         "itemNames": [
-                            "TFT_Item_MadredsBloodrazor",
+                            "TFT_Item_StatikkShiv",
                             "TFT_Item_SpearOfShojin",
-                            "TFT_Item_Bloodthirster"
+                            "TFT_Item_MadredsBloodrazor"
                         ],
                         "items": [
-                            12,
+                            24,
                             14,
-                            16
+                            12
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT7_Sylas",
                         "itemNames": [
-                            "TFT_Item_GargoyleStoneplate",
+                            "TFT_Item_Quicksilver",
                             "TFT_Item_RedBuff",
-                            "TFT_Item_Redemption"
+                            "TFT_Item_TitanicHydra"
                         ],
                         "items": [
-                            56,
+                            69,
                             57,
-                            47
+                            27
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT7_Illaoi",
-                        "itemNames": [
-                            "TFT_Item_FrozenHeart"
-                        ],
-                        "items": [
-                            45
-                        ],
-                        "tier": 2
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT7_Sona",
-                        "itemNames": [
-                            "TFT7_Item_MageEmblemItem",
-                            "TFT_Item_Chalice",
-                            "TFT_Item_RabadonsDeathcap"
-                        ],
-                        "items": [
-                            2311,
-                            46,
-                            33
-                        ],
+                        "itemNames": [],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT7_Zoe",
-                        "itemNames": [
-                            "TFT_Item_JeweledGauntlet"
-                        ],
-                        "items": [
-                            39
-                        ],
-                        "tier": 1
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT7_Bard",
@@ -2211,7 +1746,1691 @@
                         "items": [
                             41105
                         ],
+                        "tier": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "254": {
+        "occurence": 10,
+        "comp": "['Diana', 'Olaf', 'Ornn', 'Pyke', 'Qiyana', 'Shen', 'Sylas', 'Talon']",
+        "data": [
+            {
+                "augments": [
+                    "TFT6_Augment_CyberneticShell1",
+                    "TFT6_Augment_Diversify1",
+                    "TFT6_Augment_ComponentGrabBag"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 1,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [
+                            "TFT_Item_BFSword"
+                        ],
+                        "items": [
+                            1
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [
+                            "TFT_Item_RecurveBow"
+                        ],
+                        "items": [
+                            2
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT7_Item_AssassinEmblemItem",
+                            "TFT_Item_RapidFireCannon",
+                            "TFT_Item_Quicksilver"
+                        ],
+                        "items": [
+                            2325,
+                            22,
+                            69
+                        ],
                         "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_RedBuff",
+                            "TFT_Item_InfinityEdge",
+                            "TFT_Item_FrozenHeart"
+                        ],
+                        "items": [
+                            57,
+                            19,
+                            45
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [
+                            "TFT_Item_GuinsoosRageblade"
+                        ],
+                        "items": [
+                            23
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_NeedlesslyLargeRod",
+                            "TFT_Item_Zephyr"
+                        ],
+                        "items": [
+                            3,
+                            67
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_ZekesHerald",
+                            "TFT_Item_RapidFireCannon"
+                        ],
+                        "items": [
+                            17,
+                            22
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT7_Augment_AssassinEmblem",
+                    "TFT6_Augment_Diversify1",
+                    "TFT6_Augment_ComponentGrabBag"
+                ],
+                "gold_left": 10,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 6,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [
+                            "TFT_Item_RedBuff",
+                            "TFT_Item_DragonsClaw"
+                        ],
+                        "items": [
+                            57,
+                            66
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT7_Item_AssassinEmblemItem",
+                            "TFT_Item_InfinityEdge",
+                            "TFT_Item_Quicksilver"
+                        ],
+                        "items": [
+                            2325,
+                            19,
+                            69
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT7_Item_AssassinEmblemItem"
+                        ],
+                        "items": [
+                            2325
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_FrozenHeart",
+                            "TFT_Item_GuinsoosRageblade",
+                            "TFT_Item_StatikkShiv"
+                        ],
+                        "items": [
+                            45,
+                            23,
+                            24
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_HextechGunblade",
+                            "TFT_Item_RabadonsDeathcap",
+                            "TFT_Item_FrozenHeart"
+                        ],
+                        "items": [
+                            13,
+                            33,
+                            45
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_ThrillOfTheHunt1",
+                    "TFT6_Augment_TinyTitans",
+                    "TFT6_Augment_SecondWind2"
+                ],
+                "gold_left": 2,
+                "level": 8,
+                "placement": 1,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [
+                            "TFT_Item_RedBuff",
+                            "TFT_Item_Redemption"
+                        ],
+                        "items": [
+                            57,
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT_Item_Quicksilver",
+                            "TFT_Item_Bloodthirster",
+                            "TFT_Item_RunaansHurricane"
+                        ],
+                        "items": [
+                            69,
+                            16,
+                            26
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_RabadonsDeathcap",
+                            "TFT_Item_Bloodthirster",
+                            "TFT_Item_TitansResolve"
+                        ],
+                        "items": [
+                            33,
+                            16,
+                            25
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_DragonsClaw",
+                            "TFT7_Item_ScalescornEmblemItem"
+                        ],
+                        "items": [
+                            66,
+                            2300
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_StatikkShiv"
+                        ],
+                        "items": [
+                            24
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_SecondWind2",
+                    "TFT7_Augment_UrfsGrabBag2",
+                    "TFT7_Augment_BestFriends1"
+                ],
+                "gold_left": 52,
+                "level": 8,
+                "placement": 1,
+                "puuid": "AGO Zbrojson",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 6,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT_Item_RapidFireCannon",
+                            "TFT7_Item_AssassinEmblemItem",
+                            "TFT_Item_RunaansHurricane"
+                        ],
+                        "items": [
+                            22,
+                            2325,
+                            26
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT7_Item_AssassinEmblemItem",
+                            "TFT_Item_FrozenHeart"
+                        ],
+                        "items": [
+                            2325,
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_TitansResolve",
+                            "TFT_Item_Bloodthirster",
+                            "TFT_Item_BrambleVest"
+                        ],
+                        "items": [
+                            25,
+                            16,
+                            55
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_Morellonomicon",
+                            "TFT_Item_SeraphsEmbrace",
+                            "TFT_Item_Redemption"
+                        ],
+                        "items": [
+                            37,
+                            44,
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_ThreesCompany",
+                    "TFT6_Augment_PortableForge",
+                    "TFT6_Augment_Distancing2"
+                ],
+                "gold_left": 5,
+                "level": 8,
+                "placement": 2,
+                "puuid": "FeelBored",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [
+                            "TFT_Item_Zephyr",
+                            "TFT_Item_GuinsoosRageblade"
+                        ],
+                        "items": [
+                            67,
+                            23
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [
+                            "TFT_Item_RedBuff"
+                        ],
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT_Item_GuinsoosRageblade",
+                            "TFT4_Item_OrnnDeathsDefiance",
+                            "TFT_Item_Deathblade"
+                        ],
+                        "items": [
+                            23,
+                            9002,
+                            11
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_UnstableConcoction",
+                            "TFT_Item_InfinityEdge",
+                            "TFT_Item_IonicSpark"
+                        ],
+                        "items": [
+                            49,
+                            19,
+                            36
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [
+                            "TFT_Item_ThiefsGloves",
+                            "TFT_Item_PowerGauntlet",
+                            "TFT_Item_FrozenHeart"
+                        ],
+                        "items": [
+                            99,
+                            79,
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_GargoyleStoneplate",
+                            "TFT_Item_Zephyr"
+                        ],
+                        "items": [
+                            56,
+                            67
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_PortableForge",
+                    "TFT7_Augment_UrfsGrabBag2",
+                    "TFT6_Augment_SunfireBoard"
+                ],
+                "gold_left": 25,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [
+                            "TFT_Item_Redemption",
+                            "TFT_Item_ChainVest"
+                        ],
+                        "items": [
+                            47,
+                            5
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT_Item_InfinityEdge",
+                            "TFT7_Item_AssassinEmblemItem",
+                            "TFT_Item_RunaansHurricane"
+                        ],
+                        "items": [
+                            19,
+                            2325,
+                            26
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT4_Item_OrnnInfinityForce",
+                            "TFT_Item_GuinsoosRageblade",
+                            "TFT_Item_HextechGunblade"
+                        ],
+                        "items": [
+                            9004,
+                            23,
+                            13
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [
+                            "TFT_Item_GuinsoosRageblade",
+                            "TFT_Item_LastWhisper"
+                        ],
+                        "items": [
+                            23,
+                            29
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_UnstableConcoction"
+                        ],
+                        "items": [
+                            49
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_UnstableConcoction",
+                            "TFT_Item_SeraphsEmbrace",
+                            "TFT_Item_InfinityEdge"
+                        ],
+                        "items": [
+                            49,
+                            44,
+                            19
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT7_Augment_AssassinCutthroat",
+                    "TFT6_Augment_ItemGrabBag1",
+                    "TFT7_Augment_BestFriends2"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT_Item_Bloodthirster",
+                            "TFT_Item_Quicksilver",
+                            "TFT_Item_MadredsBloodrazor"
+                        ],
+                        "items": [
+                            16,
+                            69,
+                            12
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_InfinityEdge",
+                            "TFT_Item_GuardianAngel",
+                            "TFT_Item_IonicSpark"
+                        ],
+                        "items": [
+                            19,
+                            94,
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [
+                            "TFT_Item_ThiefsGloves",
+                            "TFT_Item_UnstableConcoction",
+                            "TFT_Item_SpearOfShojin"
+                        ],
+                        "items": [
+                            99,
+                            49,
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_Zephyr"
+                        ],
+                        "items": [
+                            67
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_NegatronCloak",
+                            "TFT_Item_FrozenHeart"
+                        ],
+                        "items": [
+                            6,
+                            45
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_TradeSector",
+                    "TFT6_Augment_TinyTitans",
+                    "TFT7_Augment_BestFriends3"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 2,
+                "puuid": "odahaz ukana",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 6,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT_Item_InfinityEdge",
+                            "TFT7_Item_AssassinEmblemItem",
+                            "TFT_Item_RapidFireCannon"
+                        ],
+                        "items": [
+                            19,
+                            2325,
+                            22
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT7_Item_AssassinEmblemItem"
+                        ],
+                        "items": [
+                            2325
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_InfinityEdge",
+                            "TFT_Item_UnstableConcoction",
+                            "TFT_Item_TitansResolve"
+                        ],
+                        "items": [
+                            19,
+                            49,
+                            25
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_DragonsClaw",
+                            "TFT_Item_WarmogsArmor"
+                        ],
+                        "items": [
+                            66,
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_RabadonsDeathcap",
+                            "TFT_Item_PowerGauntlet",
+                            "TFT_Item_TearOfTheGoddess"
+                        ],
+                        "items": [
+                            33,
+                            79,
+                            4
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT7_Augment_AFK",
+                    "TFT6_Augment_Weakspot",
+                    "TFT7_Augment_BruiserTitanicStrength"
+                ],
+                "gold_left": 15,
+                "level": 8,
+                "placement": 1,
+                "puuid": "T4nPoP",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT_Item_Quicksilver",
+                            "TFT_Item_RapidFireCannon",
+                            "TFT_Item_RunaansHurricane"
+                        ],
+                        "items": [
+                            69,
+                            22,
+                            26
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT_Item_Shroud"
+                        ],
+                        "items": [
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_IonicSpark",
+                            "TFT_Item_FrozenHeart"
+                        ],
+                        "items": [
+                            36,
+                            45
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [
+                            "TFT_Item_FrozenHeart"
+                        ],
+                        "items": [
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_HextechGunblade",
+                            "TFT_Item_SeraphsEmbrace",
+                            "TFT_Item_IonicSpark"
+                        ],
+                        "items": [
+                            13,
+                            44,
+                            36
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT7_Augment_AssassinEmblem",
+                    "TFT7_Augment_WarriorTiamat",
+                    "TFT7_Augment_MikaelsGift"
+                ],
+                "gold_left": 3,
+                "level": 8,
+                "placement": 2,
+                "puuid": "LIL Enzosexe",
+                "traits": [
+                    {
+                        "name": "Set7_Assassin",
+                        "num_units": 6,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Bruiser",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Guild",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 6
+                    },
+                    {
+                        "name": "Set7_Legend",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set7_Mage",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Ragewing",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Scalescorn",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Tempest",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set7_Warrior",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set7_Whispers",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT7_Qiyana",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Shen",
+                        "itemNames": [],
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Olaf",
+                        "itemNames": [
+                            "TFT7_Item_AssassinEmblemItem",
+                            "TFT_Item_TitansResolve",
+                            "TFT_Item_RunaansHurricane"
+                        ],
+                        "items": [
+                            2325,
+                            25,
+                            26
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT7_Sylas",
+                        "itemNames": [
+                            "TFT7_Item_AssassinEmblemItem"
+                        ],
+                        "items": [
+                            2325
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT7_Diana",
+                        "itemNames": [
+                            "TFT_Item_Shroud"
+                        ],
+                        "items": [
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Talon",
+                        "itemNames": [
+                            "TFT_Item_LocketOfTheIronSolari",
+                            "TFT_Item_LocketOfTheIronSolari",
+                            "TFT_Item_ZekesHerald"
+                        ],
+                        "items": [
+                            35,
+                            35,
+                            17
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Ornn",
+                        "itemNames": [
+                            "TFT_Item_Morellonomicon"
+                        ],
+                        "items": [
+                            37
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT7_Pyke",
+                        "itemNames": [
+                            "TFT_Item_SeraphsEmbrace",
+                            "TFT_Item_Zephyr"
+                        ],
+                        "items": [
+                            44,
+                            67
+                        ],
+                        "tier": 1
                     }
                 ]
             }
