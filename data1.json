@@ -5,7 +5,7 @@
         "data": [
             {
                 "augments": [
-                    "TFT8_Augment_NasusSupport",
+                    "Augment_NasusSupport",
                     "TFT6_Augment_Featherweights1",
                     "TFT6_Augment_BlueBattery1"
                 ],
@@ -87,7 +87,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_IonicSpark",
@@ -101,7 +101,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_TitansResolve",
                             "TFT_Item_Quicksilver"
@@ -113,13 +113,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_ChainVest"
                         ],
@@ -129,13 +129,13 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_JeweledGauntlet",
@@ -149,7 +149,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -160,7 +160,7 @@
                 "augments": [
                     "TFT7_Augment_AxiomArc2",
                     "TFT6_Augment_BlueBattery1",
-                    "TFT8_Augment_AlistarBeefUp"
+                    "Augment_AlistarBeefUp"
                 ],
                 "gold_left": 51,
                 "level": 7,
@@ -240,7 +240,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_ChainVest"
                         ],
@@ -250,16 +250,16 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_UnstableConcoction",
-                            "TFT8_Item_MascotEmblemItem",
+                            "Item_MascotEmblemItem",
                             "TFT_Item_IonicSpark"
                         ],
                         "items": [
@@ -270,9 +270,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem"
+                            "Item_MascotEmblemItem"
                         ],
                         "items": [
                             8008
@@ -280,7 +280,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_DragonsClaw"
@@ -292,7 +292,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_RabadonsDeathcap",
                             "TFT_Item_SeraphsEmbrace",
@@ -306,7 +306,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [
                             "TFT_Item_Zephyr"
                         ],
@@ -319,7 +319,7 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_MalphiteSupport",
+                    "Augment_MalphiteSupport",
                     "TFT6_Augment_ItemGrabBag1",
                     "TFT6_Augment_TomeOfTraits1"
                 ],
@@ -401,19 +401,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT4_Item_OrnnInfinityForce"
                         ],
@@ -423,9 +423,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem",
+                            "Item_MascotEmblemItem",
                             "TFT_Item_RedBuff",
                             "TFT_Item_IonicSpark"
                         ],
@@ -437,7 +437,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_IonicSpark",
                             "TFT_Item_Redemption",
@@ -451,7 +451,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_JeweledGauntlet",
                             "TFT_Item_SeraphsEmbrace",
@@ -465,7 +465,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -476,7 +476,7 @@
                 "augments": [
                     "TFT6_Augment_ThrillOfTheHunt1",
                     "TFT7_Augment_Preparation",
-                    "TFT8_Augment_AlistarAoEPulverizer"
+                    "Augment_AlistarAoEPulverizer"
                 ],
                 "gold_left": 1,
                 "level": 7,
@@ -556,19 +556,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_LocketOfTheIronSolari"
                         ],
@@ -578,9 +578,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem",
+                            "Item_MascotEmblemItem",
                             "TFT_Item_Chalice"
                         ],
                         "items": [
@@ -590,7 +590,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_TitanicHydra",
                             "TFT_Item_BrambleVest",
@@ -604,7 +604,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_RabadonsDeathcap",
@@ -618,7 +618,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
@@ -627,7 +627,7 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_YuumiCarry",
+                    "Augment_YuumiCarry",
                     "TFT6_Augment_PortableForge",
                     "TFT6_Augment_BlueBattery1"
                 ],
@@ -709,13 +709,13 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_LocketOfTheIronSolari"
                         ],
@@ -725,7 +725,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_IonicSpark",
@@ -739,7 +739,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_Shroud",
                             "TFT_Item_GiantsBelt"
@@ -751,7 +751,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_BFSword",
@@ -765,7 +765,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT4_Item_OrnnMuramana",
                             "TFT_Item_MadredsBloodrazor",
@@ -779,7 +779,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -789,7 +789,7 @@
             {
                 "augments": [
                     "TFT6_Augment_SecondWind2",
-                    "TFT8_Augment_MascotEmblem",
+                    "Augment_MascotEmblem",
                     "TFT6_Augment_ComponentGrabBag"
                 ],
                 "gold_left": 23,
@@ -870,13 +870,13 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_TitanicHydra",
                             "TFT_Item_Redemption",
@@ -890,7 +890,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_WarmogsArmor",
@@ -904,9 +904,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem"
+                            "Item_MascotEmblemItem"
                         ],
                         "items": [
                             8008
@@ -914,7 +914,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_Quicksilver",
@@ -928,7 +928,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_JeweledGauntlet",
                             "TFT_Item_SpearOfShojin",
@@ -942,7 +942,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
@@ -952,8 +952,8 @@
             {
                 "augments": [
                     "TFT7_Augment_Consistency",
-                    "TFT8_Augment_YuumiCarry",
-                    "TFT8_Augment_MascotEmblem"
+                    "Augment_YuumiCarry",
+                    "Augment_MascotEmblem"
                 ],
                 "gold_left": 2,
                 "level": 7,
@@ -1033,7 +1033,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_GargoyleStoneplate",
@@ -1047,7 +1047,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_SpearOfShojin"
                         ],
@@ -1057,15 +1057,15 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem"
+                            "Item_MascotEmblemItem"
                         ],
                         "items": [
                             8008
@@ -1073,7 +1073,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_TitanicHydra"
                         ],
@@ -1083,7 +1083,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_JeweledGauntlet",
                             "TFT_Item_MadredsBloodrazor",
@@ -1097,7 +1097,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -1106,9 +1106,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_YuumiCarry",
+                    "Augment_YuumiCarry",
                     "TFT7_Augment_AxiomArc2",
-                    "TFT8_Augment_MascotEmblem"
+                    "Augment_MascotEmblem"
                 ],
                 "gold_left": 0,
                 "level": 7,
@@ -1188,7 +1188,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_DragonsClaw"
@@ -1200,21 +1200,21 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem",
+                            "Item_MascotEmblemItem",
                             "TFT_Item_SeraphsEmbrace"
                         ],
                         "items": [
@@ -1224,7 +1224,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_Redemption"
                         ],
@@ -1234,7 +1234,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_JeweledGauntlet",
@@ -1248,7 +1248,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_EmptyBag",
@@ -1273,7 +1273,7 @@
                 "augments": [
                     "TFT7_Augment_PandorasBench",
                     "TFT6_Augment_Battlemage1",
-                    "TFT8_Augment_VelkozSupport"
+                    "Augment_VelkozSupport"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -1360,7 +1360,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_IonicSpark",
@@ -1374,13 +1374,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_Redemption",
@@ -1394,7 +1394,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_WarmogsArmor",
@@ -1408,13 +1408,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_RabadonsDeathcap",
                             "TFT_Item_SeraphsEmbrace"
@@ -1426,13 +1426,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -1442,7 +1442,7 @@
             {
                 "augments": [
                     "TFT6_Augment_CalculatedLoss",
-                    "TFT8_Augment_YuumiCarry",
+                    "Augment_YuumiCarry",
                     "TFT7_Augment_AxiomArc2"
                 ],
                 "gold_left": 1,
@@ -1530,7 +1530,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_TitanicHydra"
                         ],
@@ -1540,7 +1540,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_Shroud"
                         ],
@@ -1550,7 +1550,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_TitanicHydra",
                             "TFT_Item_BFSword"
@@ -1562,13 +1562,13 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_WarmogsArmor",
@@ -1582,7 +1582,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_MadredsBloodrazor",
@@ -1596,7 +1596,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [
                             "TFT_Item_TitanicHydra"
                         ],
@@ -1606,7 +1606,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -1615,9 +1615,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_MascotTrait",
+                    "Augment_MascotTrait",
                     "TFT7_Augment_Preparation",
-                    "TFT8_Augment_NunuSupport"
+                    "Augment_NunuSupport"
                 ],
                 "gold_left": 8,
                 "level": 8,
@@ -1704,13 +1704,13 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_InfinityEdge",
                             "TFT_Item_Bloodthirster"
@@ -1722,7 +1722,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_Shroud"
                         ],
@@ -1732,13 +1732,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_GargoyleStoneplate",
@@ -1752,7 +1752,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_MadredsBloodrazor",
@@ -1766,13 +1766,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_Redemption"
                         ],
@@ -1785,7 +1785,7 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_YuumiCarry",
+                    "Augment_YuumiCarry",
                     "TFT6_Augment_BlueBattery1",
                     "TFT6_Augment_Battlemage2"
                 ],
@@ -1874,31 +1874,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_TitansResolve",
                             "TFT_Item_Bloodthirster",
@@ -1912,7 +1912,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_JeweledGauntlet",
@@ -1926,13 +1926,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_GuardianAngel",
                             "TFT_Item_WarmogsArmor",
@@ -1950,7 +1950,7 @@
             {
                 "augments": [
                     "TFT7_Augment_BandOfThieves1",
-                    "TFT8_Augment_AlistarAoEPulverizer",
+                    "Augment_AlistarAoEPulverizer",
                     "TFT7_Augment_AxiomArc2"
                 ],
                 "gold_left": 1,
@@ -2038,7 +2038,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_WarmogsArmor",
@@ -2052,19 +2052,19 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_Chalice"
                         ],
@@ -2074,7 +2074,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_BrambleVest",
                             "TFT_Item_DragonsClaw"
@@ -2086,7 +2086,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_JeweledGauntlet",
@@ -2100,7 +2100,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [
                             "TFT_Item_TitanicHydra"
                         ],
@@ -2110,7 +2110,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_SpearOfShojin",
@@ -2129,7 +2129,7 @@
                 "augments": [
                     "TFT7_Augment_PandorasBench",
                     "TFT6_Augment_ComponentGrabBag",
-                    "TFT8_Augment_NunuCarry"
+                    "Augment_NunuCarry"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -2216,7 +2216,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_TitanicHydra",
                             "TFT_Item_GargoyleStoneplate",
@@ -2230,25 +2230,25 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_IonicSpark"
                         ],
@@ -2258,7 +2258,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_RabadonsDeathcap",
@@ -2272,13 +2272,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_UnstableConcoction",
@@ -2296,7 +2296,7 @@
             {
                 "augments": [
                     "TFT6_Augment_Electrocharge2",
-                    "TFT8_Augment_YuumiSupport",
+                    "Augment_YuumiSupport",
                     "TFT6_Augment_WindfallPlusPlus"
                 ],
                 "gold_left": 2,
@@ -2384,7 +2384,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_IonicSpark",
                             "TFT_Item_RedBuff",
@@ -2398,25 +2398,25 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_LocketOfTheIronSolari",
                             "TFT_Item_LocketOfTheIronSolari"
@@ -2428,7 +2428,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_JeweledGauntlet",
@@ -2442,13 +2442,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -2458,7 +2458,7 @@
             {
                 "augments": [
                     "TFT7_Augment_PandorasBench",
-                    "TFT8_Augment_YuumiCarry",
+                    "Augment_YuumiCarry",
                     "TFT7_Augment_FirstAidKit2"
                 ],
                 "gold_left": 2,
@@ -2546,7 +2546,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_IonicSpark",
@@ -2560,7 +2560,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_Quicksilver",
@@ -2574,7 +2574,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_Chalice"
                         ],
@@ -2584,19 +2584,19 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_JeweledGauntlet",
                             "TFT_Item_SeraphsEmbrace",
@@ -2610,13 +2610,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_Shroud"
                         ],
@@ -2629,9 +2629,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_MascotTrait",
+                    "Augment_MascotTrait",
                     "TFT6_Augment_Ascension",
-                    "TFT8_Augment_NunuCarry"
+                    "Augment_NunuCarry"
                 ],
                 "gold_left": 2,
                 "level": 8,
@@ -2718,7 +2718,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_DragonsClaw"
                         ],
@@ -2728,21 +2728,21 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem"
+                            "Item_MascotEmblemItem"
                         ],
                         "items": [
                             8008
@@ -2750,7 +2750,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_DragonsClaw",
                             "TFT_Item_RedBuff"
@@ -2762,7 +2762,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_JeweledGauntlet",
@@ -2776,13 +2776,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_RedBuff",
@@ -2800,7 +2800,7 @@
             {
                 "augments": [
                     "TFT7_Augment_Preparation",
-                    "TFT8_Augment_MalphiteSupport",
+                    "Augment_MalphiteSupport",
                     "TFT7_Augment_AxiomArc2"
                 ],
                 "gold_left": 15,
@@ -2888,7 +2888,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_IonicSpark",
@@ -2902,13 +2902,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor"
                         ],
@@ -2918,13 +2918,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_Redemption"
                         ],
@@ -2934,7 +2934,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_JeweledGauntlet",
                             "TFT_Item_SpearOfShojin",
@@ -2948,13 +2948,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_HextechGunblade",
                             "TFT_Item_ArchangelsStaff",
@@ -2971,9 +2971,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_YuumiSupport",
+                    "Augment_YuumiSupport",
                     "TFT6_Augment_Electrocharge1",
-                    "TFT8_Augment_CivilianEmblem"
+                    "Augment_CivilianEmblem"
                 ],
                 "gold_left": 0,
                 "level": 8,
@@ -3060,7 +3060,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_TitansResolve",
                             "TFT_Item_RedBuff",
@@ -3074,7 +3074,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_LocketOfTheIronSolari",
@@ -3088,9 +3088,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
-                            "TFT8_Item_CivilianEmblemItem",
+                            "Item_CivilianEmblemItem",
                             "TFT_Item_IonicSpark"
                         ],
                         "items": [
@@ -3100,13 +3100,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_TearOfTheGoddess"
                         ],
@@ -3116,7 +3116,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_MadredsBloodrazor",
@@ -3130,13 +3130,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_BFSword"
                         ],
@@ -3149,9 +3149,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_YuumiSupport",
-                    "TFT8_Augment_MascotEmblem2",
-                    "TFT8_Augment_MascotTrait"
+                    "Augment_YuumiSupport",
+                    "Augment_MascotEmblem2",
+                    "Augment_MascotTrait"
                 ],
                 "gold_left": 2,
                 "level": 8,
@@ -3238,7 +3238,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_UnstableConcoction",
@@ -3252,7 +3252,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [
                             "TFT_Item_TitansResolve"
                         ],
@@ -3262,9 +3262,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem"
+                            "Item_MascotEmblemItem"
                         ],
                         "items": [
                             8008
@@ -3272,9 +3272,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
-                            "TFT8_Item_MascotEmblemItem"
+                            "Item_MascotEmblemItem"
                         ],
                         "items": [
                             8008
@@ -3282,7 +3282,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [
                             "TFT_Item_IonicSpark",
                             "TFT_Item_RedBuff",
@@ -3296,7 +3296,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_ArchangelsStaff",
@@ -3310,13 +3310,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
@@ -3325,7 +3325,7 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_GangplankSupport",
+                    "Augment_GangplankSupport",
                     "TFT6_Augment_BlueBattery1",
                     "TFT7_Augment_BigFriend2"
                 ],
@@ -3414,7 +3414,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Galio",
+                        "character_id": "Galio",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_RedBuff",
@@ -3428,15 +3428,15 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Nasus",
+                        "character_id": "Nasus",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Gangplank",
+                        "character_id": "Gangplank",
                         "itemNames": [
-                            "TFT8_Item_AnimaSquadEmblemItem",
+                            "Item_AnimaSquadEmblemItem",
                             "TFT4_Item_OrnnRanduinsSanctum"
                         ],
                         "items": [
@@ -3446,7 +3446,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_ChainVest"
                         ],
@@ -3456,13 +3456,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Malphite",
+                        "character_id": "Malphite",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Yuumi",
+                        "character_id": "Yuumi",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_SeraphsEmbrace",
@@ -3476,13 +3476,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Alistar",
+                        "character_id": "Alistar",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Nunu",
+                        "character_id": "Nunu",
                         "itemNames": [
                             "TFT_Item_IonicSpark"
                         ],
@@ -3501,7 +3501,7 @@
         "data": [
             {
                 "augments": [
-                    "TFT8_Augment_BlitzcrankSupport",
+                    "Augment_BlitzcrankSupport",
                     "TFT6_Augment_MakeshiftArmor1",
                     "TFT7_Augment_ScopedWeapons1"
                 ],
@@ -3583,7 +3583,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [
                             "TFT_Item_Zephyr"
                         ],
@@ -3593,25 +3593,25 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_EmptyBag",
@@ -3625,7 +3625,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_GuinsoosRageblade",
@@ -3639,7 +3639,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_NegatronCloak",
                             "TFT_Item_Quicksilver"
@@ -3651,9 +3651,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_StatikkShiv",
                             "TFT_Item_GuardianAngel"
                         ],
@@ -3668,9 +3668,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem2",
+                    "Augment_BrawlerEmblem2",
                     "TFT6_Augment_Battlemage2",
-                    "TFT8_Augment_SejuaniSupport"
+                    "Augment_SejuaniSupport"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -3750,25 +3750,25 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_StatikkShiv"
                         ],
@@ -3778,7 +3778,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_Redemption",
@@ -3792,7 +3792,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_GuinsoosRageblade",
@@ -3806,7 +3806,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_FrozenHeart",
                             "TFT_Item_Redemption",
@@ -3820,9 +3820,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_RabadonsDeathcap",
                             "TFT_Item_SeraphsEmbrace"
                         ],
@@ -3837,8 +3837,8 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_RenektonSupport",
-                    "TFT8_Augment_BrawlerTrait",
+                    "Augment_RenektonSupport",
+                    "Augment_BrawlerTrait",
                     "TFT7_Augment_ScopedWeapons1"
                 ],
                 "gold_left": 19,
@@ -3919,19 +3919,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_Zephyr",
@@ -3945,13 +3945,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_IonicSpark",
@@ -3965,7 +3965,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_GuinsoosRageblade",
@@ -3979,7 +3979,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_Morellonomicon"
                         ],
@@ -3989,7 +3989,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
                             "TFT_Item_ArchangelsStaff",
@@ -4006,9 +4006,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem",
+                    "Augment_BrawlerEmblem",
                     "TFT7_Augment_BigFriend2",
-                    "TFT8_Augment_SejuaniSupport"
+                    "Augment_SejuaniSupport"
                 ],
                 "gold_left": 0,
                 "level": 8,
@@ -4088,31 +4088,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_IonicSpark",
                             "TFT_Item_RedBuff",
@@ -4126,7 +4126,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
                             "TFT_Item_TitansResolve",
@@ -4140,17 +4140,17 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_HextechGunblade",
                             "TFT_Item_PowerGauntlet",
-                            "TFT8_Item_BrawlerEmblemItem"
+                            "Item_BrawlerEmblemItem"
                         ],
                         "items": [
                             13,
@@ -4164,8 +4164,8 @@
             {
                 "augments": [
                     "TFT7_Augment_ScopedWeapons1",
-                    "TFT8_Augment_JaxSupport",
-                    "TFT8_Augment_BrawlerEmblem"
+                    "Augment_JaxSupport",
+                    "Augment_BrawlerEmblem"
                 ],
                 "gold_left": 40,
                 "level": 8,
@@ -4245,31 +4245,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_GiantsBelt"
@@ -4281,7 +4281,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
                             "TFT_Item_RapidFireCannon",
@@ -4295,7 +4295,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_Morellonomicon",
                             "TFT_Item_FrozenHeart"
@@ -4307,11 +4307,11 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SpearOfShojin",
                             "TFT_Item_SpearOfShojin",
-                            "TFT8_Item_BrawlerEmblemItem"
+                            "Item_BrawlerEmblemItem"
                         ],
                         "items": [
                             14,
@@ -4325,8 +4325,8 @@
             {
                 "augments": [
                     "TFT6_Augment_TradeSector",
-                    "TFT8_Augment_JaxSupport",
-                    "TFT8_Augment_BrawlerTrait"
+                    "Augment_JaxSupport",
+                    "Augment_BrawlerTrait"
                 ],
                 "gold_left": 0,
                 "level": 8,
@@ -4406,31 +4406,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_IonicSpark"
@@ -4442,7 +4442,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_RapidFireCannon",
@@ -4456,9 +4456,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
-                            "TFT8_Item_ADMINEmblemItem",
+                            "Item_ADMINEmblemItem",
                             "TFT_Item_IonicSpark"
                         ],
                         "items": [
@@ -4468,7 +4468,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_RabadonsDeathcap"
@@ -4484,8 +4484,8 @@
             {
                 "augments": [
                     "TFT6_Augment_MakeshiftArmor2",
-                    "TFT8_Augment_JaxSupport",
-                    "TFT8_Augment_BrawlerEmblem2"
+                    "Augment_JaxSupport",
+                    "Augment_BrawlerEmblem2"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -4565,25 +4565,25 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_Redemption"
                         ],
@@ -4593,7 +4593,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_ZekesHerald",
@@ -4607,7 +4607,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_UnstableConcoction",
                             "TFT_Item_GuinsoosRageblade",
@@ -4621,7 +4621,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_IonicSpark",
                             "TFT_Item_TitanicHydra",
@@ -4635,9 +4635,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_ZekesHerald",
                             "TFT_Item_SpearOfShojin"
                         ],
@@ -4652,9 +4652,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem2",
+                    "Augment_BrawlerEmblem2",
                     "TFT6_Augment_GachaAddict",
-                    "TFT8_Augment_RivenSupport"
+                    "Augment_RivenSupport"
                 ],
                 "gold_left": 23,
                 "level": 8,
@@ -4734,25 +4734,25 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_TearOfTheGoddess"
                         ],
@@ -4762,7 +4762,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_RedBuff",
@@ -4776,7 +4776,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Quicksilver",
                             "TFT_Item_Bloodthirster",
@@ -4790,7 +4790,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_Quicksilver",
@@ -4804,10 +4804,10 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_StatikkShiv"
                         ],
                         "items": [
@@ -4823,7 +4823,7 @@
                 "augments": [
                     "TFT7_Augment_BandOfThieves1",
                     "TFT6_Augment_JeweledLotus",
-                    "TFT8_Augment_JaxSupport"
+                    "Augment_JaxSupport"
                 ],
                 "gold_left": 0,
                 "level": 8,
@@ -4903,25 +4903,25 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_GuardianAngel",
@@ -4935,7 +4935,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_IonicSpark",
@@ -4949,7 +4949,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_HextechGunblade",
                             "TFT_Item_GuinsoosRageblade",
@@ -4963,7 +4963,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_Deathblade",
                             "TFT_Item_NegatronCloak"
@@ -4975,10 +4975,10 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_PowerGauntlet",
-                            "TFT8_Item_BrawlerEmblemItem"
+                            "Item_BrawlerEmblemItem"
                         ],
                         "items": [
                             79,
@@ -4990,9 +4990,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerTrait",
+                    "Augment_BrawlerTrait",
                     "TFT6_Augment_ItemGrabBag1",
-                    "TFT8_Augment_SejuaniCarry"
+                    "Augment_SejuaniCarry"
                 ],
                 "gold_left": 54,
                 "level": 8,
@@ -5072,19 +5072,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_DragonsClaw"
@@ -5096,19 +5096,19 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_GuinsoosRageblade",
@@ -5122,7 +5122,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_Morellonomicon",
@@ -5136,7 +5136,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_Zephyr"
                         ],
@@ -5149,9 +5149,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem2",
+                    "Augment_BrawlerEmblem2",
                     "TFT6_Augment_Battlemage3",
-                    "TFT8_Augment_JaxSupport"
+                    "Augment_JaxSupport"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -5231,7 +5231,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [
                             "TFT_Item_Redemption"
                         ],
@@ -5241,19 +5241,19 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_DragonsClaw",
@@ -5267,7 +5267,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_DragonsClaw",
                             "TFT4_Item_OrnnObsidianCleaver"
@@ -5279,7 +5279,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_GuinsoosRageblade",
@@ -5293,7 +5293,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_GargoyleStoneplate",
                             "TFT_Item_Redemption",
@@ -5307,9 +5307,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_JeweledGauntlet",
                             "TFT_Item_SeraphsEmbrace"
                         ],
@@ -5325,7 +5325,7 @@
             {
                 "augments": [
                     "TFT6_Augment_BlueBattery1",
-                    "TFT8_Augment_BrawlerEmblem",
+                    "Augment_BrawlerEmblem",
                     "TFT7_Augment_BigFriend2"
                 ],
                 "gold_left": 2,
@@ -5406,19 +5406,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_RedBuff",
@@ -5432,19 +5432,19 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Quicksilver",
                             "TFT_Item_Bloodthirster",
@@ -5458,7 +5458,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_RabadonsDeathcap",
                             "TFT_Item_GuardianAngel"
@@ -5470,11 +5470,11 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_JeweledGauntlet",
                             "TFT_Item_SeraphsEmbrace",
-                            "TFT8_Item_BrawlerEmblemItem"
+                            "Item_BrawlerEmblemItem"
                         ],
                         "items": [
                             39,
@@ -5488,8 +5488,8 @@
             {
                 "augments": [
                     "TFT6_Augment_ThrillOfTheHunt1",
-                    "TFT8_Augment_ViSupport",
-                    "TFT8_Augment_BrawlerEmblem2"
+                    "Augment_ViSupport",
+                    "Augment_BrawlerEmblem2"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -5569,19 +5569,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_RedBuff",
@@ -5595,13 +5595,13 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_EmptyBag",
@@ -5615,7 +5615,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Quicksilver",
                             "TFT_Item_Bloodthirster",
@@ -5629,7 +5629,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_DragonsClaw",
                             "TFT4_Item_OrnnMuramana"
@@ -5641,9 +5641,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_StatikkShiv",
                             "TFT_Item_SpearOfShojin"
                         ],
@@ -5658,9 +5658,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_DefenderTrait",
-                    "TFT8_Augment_ViSupport",
-                    "TFT8_Augment_BrawlerEmblem"
+                    "Augment_DefenderTrait",
+                    "Augment_ViSupport",
+                    "Augment_BrawlerEmblem"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -5740,31 +5740,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_BrambleVest",
                             "TFT_Item_RedBuff",
@@ -5778,7 +5778,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
                             "TFT_Item_Quicksilver",
@@ -5792,7 +5792,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_ChainVest",
                             "TFT_Item_ArchangelsStaff"
@@ -5804,9 +5804,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_PowerGauntlet",
                             "TFT_Item_Quicksilver"
                         ],
@@ -5821,8 +5821,8 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_ViSupport",
-                    "TFT8_Augment_BrawlerEmblem",
+                    "Augment_ViSupport",
+                    "Augment_BrawlerEmblem",
                     "TFT6_Augment_Distancing2"
                 ],
                 "gold_left": 2,
@@ -5903,31 +5903,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_WarmogsArmor",
@@ -5941,7 +5941,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
                             "TFT_Item_Bloodthirster",
@@ -5955,7 +5955,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor"
                         ],
@@ -5965,9 +5965,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_JeweledGauntlet"
                         ],
                         "items": [
@@ -5981,8 +5981,8 @@
             {
                 "augments": [
                     "TFT6_Augment_Distancing2",
-                    "TFT8_Augment_JaxSupport",
-                    "TFT8_Augment_BrawlerEmblem2"
+                    "Augment_JaxSupport",
+                    "Augment_BrawlerEmblem2"
                 ],
                 "gold_left": 11,
                 "level": 8,
@@ -6062,31 +6062,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_BrambleVest",
@@ -6100,7 +6100,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
                             "TFT_Item_Bloodthirster",
@@ -6114,7 +6114,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_WarmogsArmor"
@@ -6126,9 +6126,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_SpearOfShojin",
                             "TFT_Item_JeweledGauntlet"
                         ],
@@ -6145,7 +6145,7 @@
                 "augments": [
                     "TFT7_Augment_ScopedWeapons1",
                     "TFT6_Augment_TradeSectorPlus",
-                    "TFT8_Augment_SorakaCarry"
+                    "Augment_SorakaCarry"
                 ],
                 "gold_left": 54,
                 "level": 8,
@@ -6225,31 +6225,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_WarmogsArmor",
@@ -6263,7 +6263,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Quicksilver",
                             "TFT_Item_GuinsoosRageblade",
@@ -6277,9 +6277,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
-                            "TFT8_Item_ADMINEmblemItem"
+                            "Item_ADMINEmblemItem"
                         ],
                         "items": [
                             8007
@@ -6287,11 +6287,11 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_JeweledGauntlet",
-                            "TFT8_Item_BrawlerEmblemItem"
+                            "Item_BrawlerEmblemItem"
                         ],
                         "items": [
                             44,
@@ -6305,8 +6305,8 @@
             {
                 "augments": [
                     "TFT6_Augment_Ascension",
-                    "TFT8_Augment_ViSupport",
-                    "TFT8_Augment_BrawlerEmblem"
+                    "Augment_ViSupport",
+                    "Augment_BrawlerEmblem"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -6386,19 +6386,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_ZekesHerald",
                             "TFT_Item_StatikkShiv",
@@ -6412,19 +6412,19 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
                             "TFT_Item_Bloodthirster",
@@ -6438,7 +6438,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_DragonsClaw",
                             "TFT_Item_TitanicHydra",
@@ -6452,9 +6452,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_ArchangelsStaff",
                             "TFT_Item_SpearOfShojin"
                         ],
@@ -6469,8 +6469,8 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem2",
-                    "TFT8_Augment_JaxSupport",
+                    "Augment_BrawlerEmblem2",
+                    "Augment_JaxSupport",
                     "TFT6_Augment_VerdantVeil"
                 ],
                 "gold_left": 0,
@@ -6551,31 +6551,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_RedBuff",
@@ -6589,9 +6589,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
-                            "TFT8_Item_InterPolarisEmblemItem",
+                            "Item_InterPolarisEmblemItem",
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_GuinsoosRageblade"
                         ],
@@ -6603,7 +6603,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT4_Item_OrnnRanduinsSanctum",
                             "TFT_Item_Morellonomicon",
@@ -6617,10 +6617,10 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_JeweledGauntlet"
                         ],
                         "items": [
@@ -6634,9 +6634,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem2",
+                    "Augment_BrawlerEmblem2",
                     "TFT6_Augment_Battlemage2",
-                    "TFT8_Augment_SejuaniSupport"
+                    "Augment_SejuaniSupport"
                 ],
                 "gold_left": 0,
                 "level": 8,
@@ -6716,31 +6716,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_DragonsClaw",
@@ -6754,7 +6754,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_GuinsoosRageblade",
@@ -6768,7 +6768,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_Chalice",
                             "TFT_Item_Shroud"
@@ -6780,9 +6780,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_SpearOfShojin",
                             "TFT_Item_InfinityEdge"
                         ],
@@ -6799,7 +6799,7 @@
                 "augments": [
                     "TFT7_Augment_TomeOfTraits2",
                     "TFT7_Augment_Preparation2",
-                    "TFT8_Augment_JaxSupport"
+                    "Augment_JaxSupport"
                 ],
                 "gold_left": 54,
                 "level": 8,
@@ -6886,7 +6886,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [
                             "TFT_Item_DragonsClaw"
                         ],
@@ -6896,9 +6896,9 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [
-                            "TFT8_Item_ExoPrimeEmblemItem"
+                            "Item_ExoPrimeEmblemItem"
                         ],
                         "items": [
                             8020
@@ -6906,9 +6906,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
-                            "TFT8_Item_InterPolarisEmblemItem"
+                            "Item_InterPolarisEmblemItem"
                         ],
                         "items": [
                             8003
@@ -6916,7 +6916,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_DragonsClaw",
@@ -6930,16 +6930,16 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_GuinsoosRageblade",
-                            "TFT8_Item_ReconEmblemItem",
+                            "Item_ReconEmblemItem",
                             "TFT_Item_PowerGauntlet"
                         ],
                         "items": [
@@ -6950,15 +6950,15 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_HextechGunblade"
                         ],
                         "items": [
@@ -6972,8 +6972,8 @@
             {
                 "augments": [
                     "TFT6_Augment_Battlemage2",
-                    "TFT8_Augment_BrawlerEmblem",
-                    "TFT8_Augment_SorakaSupport"
+                    "Augment_BrawlerEmblem",
+                    "Augment_SorakaSupport"
                 ],
                 "gold_left": 8,
                 "level": 8,
@@ -7053,31 +7053,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_BrambleVest",
                             "TFT_Item_RedBuff",
@@ -7091,7 +7091,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_RapidFireCannon",
                             "TFT4_Item_OrnnZhonyasParadox",
@@ -7105,7 +7105,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_WarmogsArmor",
                             "TFT_Item_Redemption"
@@ -7117,10 +7117,10 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_InfinityEdge",
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_SeraphsEmbrace"
                         ],
                         "items": [
@@ -7135,7 +7135,7 @@
             {
                 "augments": [
                     "TFT6_Augment_ThrillOfTheHunt2",
-                    "TFT8_Augment_BrawlerEmblem",
+                    "Augment_BrawlerEmblem",
                     "TFT6_Augment_Battlemage2"
                 ],
                 "gold_left": 2,
@@ -7216,19 +7216,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_Zephyr"
                         ],
@@ -7238,13 +7238,13 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_RedBuff"
                         ],
@@ -7254,7 +7254,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_GuinsoosRageblade",
@@ -7268,7 +7268,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_TitanicHydra",
                             "TFT_Item_Morellonomicon"
@@ -7280,9 +7280,9 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_UnstableConcoction",
                             "TFT_Item_MadredsBloodrazor"
                         ],
@@ -7297,8 +7297,8 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem",
-                    "TFT8_Augment_JaxSupport",
+                    "Augment_BrawlerEmblem",
+                    "Augment_JaxSupport",
                     "TFT7_Augment_ScopedWeapons1"
                 ],
                 "gold_left": 0,
@@ -7379,31 +7379,31 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_RedBuff",
                             "TFT_Item_BrambleVest"
@@ -7415,7 +7415,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_MadredsBloodrazor",
                             "TFT_Item_Quicksilver",
@@ -7429,7 +7429,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_Chalice"
                         ],
@@ -7439,10 +7439,10 @@
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
-                            "TFT8_Item_BrawlerEmblemItem",
+                            "Item_BrawlerEmblemItem",
                             "TFT_Item_HextechGunblade"
                         ],
                         "items": [
@@ -7456,9 +7456,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_ViSupport",
+                    "Augment_ViSupport",
                     "TFT6_Augment_GachaAddict",
-                    "TFT8_Augment_BrawlerTrait"
+                    "Augment_BrawlerTrait"
                 ],
                 "gold_left": 2,
                 "level": 8,
@@ -7538,7 +7538,7 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [
                             "TFT_Item_ChainVest"
                         ],
@@ -7548,13 +7548,13 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_PowerGauntlet",
@@ -7568,13 +7568,13 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_FrozenHeart",
                             "TFT_Item_DragonsClaw",
@@ -7588,7 +7588,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_GuinsoosRageblade",
@@ -7602,7 +7602,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_IonicSpark"
                         ],
@@ -7612,7 +7612,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace"
                         ],
@@ -7625,9 +7625,9 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_RenektonSupport",
+                    "Augment_RenektonSupport",
                     "TFT6_Augment_BandOfThieves2",
-                    "TFT8_Augment_BrawlerTrait"
+                    "Augment_BrawlerTrait"
                 ],
                 "gold_left": 65,
                 "level": 8,
@@ -7707,13 +7707,13 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_RunaansHurricane",
@@ -7727,7 +7727,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_Quicksilver",
@@ -7741,7 +7741,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [
                             "TFT_Item_Shroud"
                         ],
@@ -7751,7 +7751,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption",
                             "TFT_Item_TitansResolve",
@@ -7765,7 +7765,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Quicksilver",
                             "TFT_Item_GuinsoosRageblade",
@@ -7779,7 +7779,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_Morellonomicon"
                         ],
@@ -7789,7 +7789,7 @@
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
@@ -7799,7 +7799,7 @@
             {
                 "augments": [
                     "TFT6_Augment_ThreesCompany",
-                    "TFT8_Augment_JaxSupport",
+                    "Augment_JaxSupport",
                     "TFT7_Augment_BandOfThieves1"
                 ],
                 "gold_left": 1,
@@ -7880,19 +7880,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_Redemption",
@@ -7906,13 +7906,13 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_ThiefsGloves",
                             "TFT_Item_RunaansHurricane",
@@ -7926,7 +7926,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_TitansResolve",
                             "TFT_Item_Bloodthirster",
@@ -7940,7 +7940,7 @@
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_ZekesHerald",
                             "TFT_Item_Chalice",
@@ -7954,7 +7954,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT_Item_SeraphsEmbrace",
                             "TFT_Item_GuinsoosRageblade",
@@ -7971,8 +7971,8 @@
             },
             {
                 "augments": [
-                    "TFT8_Augment_BrawlerEmblem",
-                    "TFT8_Augment_JaxSupport",
+                    "Augment_BrawlerEmblem",
+                    "Augment_JaxSupport",
                     "TFT6_Augment_RadiantRelics"
                 ],
                 "gold_left": 0,
@@ -8053,19 +8053,19 @@
                 ],
                 "units": [
                     {
-                        "character_id": "TFT8_Blitzcrank",
+                        "character_id": "Blitzcrank",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Renekton",
+                        "character_id": "Renekton",
                         "itemNames": [],
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT8_Vi",
+                        "character_id": "Vi",
                         "itemNames": [
                             "TFT_Item_GiantsBelt"
                         ],
@@ -8075,13 +8075,13 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_LeeSin",
+                        "character_id": "LeeSin",
                         "itemNames": [],
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Riven",
+                        "character_id": "Riven",
                         "itemNames": [
                             "TFT_Item_Redemption"
                         ],
@@ -8091,7 +8091,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Jax",
+                        "character_id": "Jax",
                         "itemNames": [
                             "TFT_Item_Bloodthirster",
                             "TFT_Item_Quicksilver",
@@ -8105,7 +8105,7 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Sejuani",
+                        "character_id": "Sejuani",
                         "itemNames": [
                             "TFT_Item_BrambleVest",
                             "TFT_Item_Redemption",
@@ -8119,11 +8119,11 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT8_Soraka",
+                        "character_id": "Soraka",
                         "itemNames": [
                             "TFT5_Item_ArchangelsStaffRadiant",
                             "TFT_Item_SpearOfShojin",
-                            "TFT8_Item_BrawlerEmblemItem"
+                            "Item_BrawlerEmblemItem"
                         ],
                         "items": [
                             2034,
